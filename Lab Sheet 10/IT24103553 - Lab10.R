@@ -1,7 +1,7 @@
 # ============================================================
 # IT2120 - Probability and Statistics
 # Lab Sheet 10 : Chi-Squared Tests
-# Student ID: IT24101967
+# Student ID: IT24103553
 # ============================================================
 
 # 0️⃣ Set working directory
@@ -106,4 +106,5 @@ print(result2)
 cat("\n=== Question 3: Vending Machine Test ===\n")
 print(result3)
 sink()
+
 # ============================================================
