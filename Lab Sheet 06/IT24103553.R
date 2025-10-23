@@ -16,6 +16,5 @@ lambda <- 12
 # i. X = number of calls per hour
 # ii. Distribution: X has poisson distribution with lambda = 12
 
-# iii. Probability of exactly 15 calls
-prob_15 <- dpois(15, lambda)
-prob_15
+
+
